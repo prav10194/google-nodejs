@@ -1,0 +1,25 @@
+{
+  "name": "google-nodejs",
+  "version": "1.0.0",
+  "description": "A simple example of integrating google actions with our Node.js application running locally.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prav10194/google-nodejs.git"
+  },
+  "author": "Pranav Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prav10194/google-nodejs/issues"
+  },
+  "homepage": "https://github.com/prav10194/google-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "unirest": "^0.5.1"
+  }
+}
