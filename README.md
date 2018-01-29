@@ -20,7 +20,7 @@ Setting up your action in Google
 
 ![alt text](https://github.com/prav10194/google-nodejs/blob/master/screenshots/intent.png "Watson")
 
-6. Double tap on whatever you typed in User says and chose the option as @sys.any.inputtext.
+6. Double tap on whatever you typed in User says and chose the option as @sys.geo-state-us. 
 
 ![alt text](https://github.com/prav10194/google-nodejs/blob/master/screenshots/double-click.png "Watson")
 
