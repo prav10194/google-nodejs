@@ -113,7 +113,7 @@ ngrok http 8080
 
 4. Copy the Forwarding domain from the ngrok terminal. E.g. Your domain would look something like - https://c90db8b2.ngrok.io
 
-Paste it in the Amazon Alexa Endpoint Configuration.
+Paste it in the Fulfillment Webhook Configuration.
 
 The final endpoint will be - https://c90db8b2.ngrok.io/weather
 
