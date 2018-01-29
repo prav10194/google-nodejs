@@ -37,6 +37,7 @@ Setting up your action in Google
 ![alt text](https://github.com/prav10194/google-nodejs/blob/master/screenshots/webhook.png "Watson")
 
 10. Enter your ngrok domain followed by /weather. It will look something like - https://xxxx.ngrok.io/weather
+Setting up ngrok has been explained down.  
 
 11. Click Save at the bottom of the page.
 
@@ -55,8 +56,6 @@ Setting up your action in Google
 ![alt text](https://github.com/prav10194/google-nodejs/blob/master/screenshots/integration.png "Watson")
 
 16. Click on Google Assistant.
-
-![alt text](https://github.com/prav10194/google-nodejs/blob/master/screenshots/google-assistant.png "Watson")
 
 17. Select What in implicit invocation.
 
