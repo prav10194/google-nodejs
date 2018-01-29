@@ -36,7 +36,7 @@ Setting up your action in Google
 
 ![alt text](https://github.com/prav10194/google-nodejs/blob/master/screenshots/webhook.png "Watson")
 
-10. Enter your ngrok domain followed by /weather.
+10. Enter your ngrok domain followed by /weather. It will look something like - https://xxxx.ngrok.io/weather
 
 11. Click Save at the bottom of the page.
 
